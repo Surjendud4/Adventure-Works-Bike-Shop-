@@ -12,7 +12,7 @@ Customer Insights Dashboard: Provided unique customer KPIs, order insights, and 
 
 Implemented interactive elements: such as category tooltips and attention-grabbing cards for top customers to enhance user engagement and usability.
 
-#Visuals
+# Visuals
 
 ![abar 1](https://github.com/Surjendud4/Adventure-Works-Bike-Shop-/assets/168835348/76887f32-e4e5-4246-aa73-002b8c1da40a)
 ![Abar 2](https://github.com/Surjendud4/Adventure-Works-Bike-Shop-/assets/168835348/a4b63c40-3758-4da8-be47-052caf6060f3)
