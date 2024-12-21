@@ -19,6 +19,11 @@ Implemented interactive elements: such as category tooltips and attention-grabbi
 ![Abar3](https://github.com/Surjendud4/Adventure-Works-Bike-Shop-/assets/168835348/d7eeba5f-c110-492f-9d9a-81fe873f0c07)
 ![Abar 4](https://github.com/Surjendud4/Adventure-Works-Bike-Shop-/assets/168835348/170e03fa-dfac-4f30-8e31-d55d7a671782)
 
+# Table Relationships
+
+![image](https://github.com/user-attachments/assets/014b4752-c614-4340-9bb6-931d181b485f)
+
+
 # Tooltip Design
 
 ![Abar 5](https://github.com/Surjendud4/Adventure-Works-Bike-Shop-/assets/168835348/e6227a94-2e56-4b1a-bfa1-2a551f2998b3)
